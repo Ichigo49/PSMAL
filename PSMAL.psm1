@@ -1,5 +1,3 @@
-$Global:MALurl = 'https://myanimelist.net/api'
-
 
 $functionFolders = @('Public', 'Internal', 'Classes')
 ForEach ($folder in $functionFolders)
